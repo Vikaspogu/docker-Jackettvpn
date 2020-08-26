@@ -1,6 +1,6 @@
 [preview]: https://raw.githubusercontent.com/DyonR/docker-templates/master/Screenshots/jackettvpn/jackettvpn-mainpage.png "Jackett Preview"
 
-![docker publish] (https://github.com/vikaspogu/docker-Jackettvpn/workflows/.github/workflows/dockerimage.yml/badge.svg)
+[![Docker Push Status](https://github.com/vikaspogu/docker-Jackettvpn/workflows/Docker%20Build&Publish%20Image/badge.svg)](https://github.com/vikaspogu/docker-Jackettvpn/actions)
 
 # Jackett and OpenVPN
 Docker container which runs the latest headless Jackett Server while connecting to OpenVPN with iptables killswitch to prevent IP leakage when the tunnel goes down.
